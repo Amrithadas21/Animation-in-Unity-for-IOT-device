@@ -10,7 +10,8 @@ This repository contains an **animation video** developed in **Unity**, using as
 ## 🔹 **Project Overview**  
 - **Engine:** Unity (2021+ recommended)  
 - **Animation System:** Animator & Timeline  
-- **Assets Source:** Sketchfab (3D models & textures)  
+- **Assets Source:** Sketchfab (3D models & textures)
+- **Language**: C#
 - **Output Format:** MP4 video exported from Unity  
 - **Domain:** IoT-Based Smart Alert System for Wildlife Movement  
 
